@@ -8,7 +8,7 @@ Minecraft-Preflight (MCPF) aims to address these problems.
 
 # Usage
 ### Setting up MCPF
-1. Download the latest MCPF snapshot from the [repository](http://repo.arraying.de/#browse/browse:maven-snapshots:de%2Farraying%2Fmcpf).
+1. Download the latest MCPF snapshot from the [repository](http://repo.arraying.de/snapshots/de/arraying/mcpf).
 2. Open up your `.minecraft` folder.
 3. Copy and paste the MCPF .jar into your .minecraft folder and rename it to `mcpf.jar`.
 4. Create a new folder inside of `.minecraft` called `mcpf`.
